@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'shivapp1'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5AF261D57F2345578255446A062B9B32 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A69572263A4945F9A7D4EA5EB9B511A5 }}
           package: .
